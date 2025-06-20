@@ -1,0 +1,171 @@
+{
+  "college_info": {
+    "name": "Universal College of Engineering",
+    "address": "Kaman Bhiwandi Road, Survey No. 146 (Part), Village Kaman, Taluka Vasai, Dist. Palghar - 401208",
+    "phone": "+91 8007000755",
+    "email": "ucoe@universal.edu.in",
+    "website": "https://universalcollegeofengineering.edu.in",
+    "affiliation": "University of Mumbai",
+    "approvals": ["AICTE", "DTE Maharashtra"],
+    "established_year": 2012
+  },
+  "departments": [
+    "Computer Engineering",
+    "Information Technology",
+    "Civil Engineering",
+    "Data Engineering",
+    "Artificial Intelligence & Machine Learning"
+  ],
+  "courses": [
+    {
+      "name": "Computer Engineering",
+      "duration": "4 years",
+      "type": "Undergraduate (B.E.)",
+      "fees_per_year": "₹1,20,000"
+    },
+    {
+      "name": "Information Technology",
+      "duration": "4 years",
+      "type": "Undergraduate (B.E.)",
+      "fees_per_year": "₹1,15,000"
+    },
+    {
+      "name": "Civil Engineering",
+      "duration": "4 years",
+      "type": "Undergraduate (B.E.)",
+      "fees_per_year": "₹1,00,000"
+    },
+    {
+      "name": "Data Engineering",
+      "duration": "4 years",
+      "type": "Undergraduate (B.E.)",
+      "fees_per_year": "₹1,25,000"
+    },
+    {
+      "name": "Artificial Intelligence & Data Science",
+      "duration": "4 years",
+      "type": "Undergraduate (B.E.)",
+      "fees_per_year": "₹1,25,000"
+    }
+  ],
+  "admissions": {
+    "start_date": "2025-04-01",
+    "end_date": "2025-07-15",
+    "process": "Apply online, entrance test (MHT-CET), counseling",
+    "required_documents": [
+      "10th and 12th Mark Sheets",
+      "Transfer Certificate",
+      "ID Proof",
+      "Passport Size Photographs"
+    ]
+  },
+  "facilities": [
+    "Library",
+    "Hostel",
+    "Cafeteria",
+    "Wi-Fi Campus",
+    "Laboratories",
+    "Sports Complex",
+    "Transport Facility",
+    "Workshop",
+    "Drawing Hall",
+    "Common Rooms & Lockers",
+    "Literati Café",
+    "IIT Bombay Remote Centre",
+    "Open-air Classroom"
+  ],
+  "leadership": {
+    "principal_name": "Dr. Anjali Patil",
+    "message": "Our mission is to provide holistic education that empowers students for success in a fast-changing world."
+  },
+  "student_clubs": [
+    {
+      "name": "CodeCell",
+      "description": "A programming club for coding, hackathons, and tech talks."
+    },
+    {
+      "name": "Eco Club",
+      "description": "Spreading awareness on sustainable development and green initiatives."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Smart India Hackathon 2024",
+      "description": "Top 5 nationwide for AI Waste Management Solution."
+    },
+    {
+      "title": "Best Engineering College in Mumbai 2023",
+      "description": "Awarded by Times Engineering Survey."
+    }
+  ],
+  "scholarships": [
+    {
+      "name": "Merit Scholarship",
+      "eligibility": "Top 5% scorers in MHT-CET",
+      "benefits": "50% tuition fee waiver"
+    },
+    {
+      "name": "EWS Scholarship",
+      "eligibility": "Annual family income < ₹2.5 lakh",
+      "benefits": "Full tuition fee waiver"
+    }
+  ],
+  "hostel": {
+    "available": true,
+    "boys_hostel": {
+      "rooms": 100,
+      "amenities": ["Bed", "Wi-Fi", "Mess", "Laundry", "Security"]
+    },
+    "girls_hostel": {
+      "rooms": 80,
+      "amenities": ["Bed", "Wi-Fi", "Mess", "Warden", "Security"]
+    }
+  },
+  "placements": {
+    "average_package": "₹6.5 LPA",
+    "highest_package": "₹18 LPA",
+    "top_recruiters": ["Infosys", "TCS", "Amazon", "Wipro"]
+  },
+  "events": [
+    {
+      "name": "TechFest",
+      "month": "March",
+      "description": "Annual technology and innovation festival."
+    },
+    {
+      "name": "Cultural Week",
+      "month": "November",
+      "description": "Week-long cultural celebration including music, dance, and drama."
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Sonal Mehta",
+      "batch": "2018",
+      "position": "Software Engineer at Microsoft",
+      "testimonial": "The faculty and infrastructure helped shape my career."
+    },
+    {
+      "name": "Rahul Bhagat",
+      "batch": "2017",
+      "position": "Civil Engineer at L&T",
+      "testimonial": "My time at UCOE was the foundation of my professional life."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is the admission process?",
+      "answer": "Admissions are through MHT-CET and CAP rounds managed by DTE Maharashtra."
+    },
+    {
+      "question": "Is hostel mandatory?",
+      "answer": "No, but it is recommended for students coming from other cities."
+    }
+  ],
+  "social_media": {
+    "facebook": "https://www.facebook.com/universalcoe/",
+    "instagram": "https://www.instagram.com/ucoe_official/",
+    "linkedin": "https://www.linkedin.com/school/universal-college-of-engineering/",
+    "youtube": "https://www.youtube.com/@ucoe_official"
+  }
+}
